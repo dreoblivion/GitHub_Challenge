@@ -1,4 +1,5 @@
 # GitHub_Challenge
 
 GitHub is fun.
-GitHub is cool.
+The weather outside is frightful.
+But the fire is so delightful.
